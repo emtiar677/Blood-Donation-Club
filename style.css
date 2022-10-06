@@ -1,0 +1,112 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+	margin: 0;
+}
+
+.header_area {
+	background: #0ee007;
+	color: white;
+}
+
+.header {
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 26px 0px;
+}
+
+@media only screen and (max-width: 1000px) {
+	.logo {
+		width: 35%;
+	}
+
+	.login {
+		width: 65%;
+	}
+}
+
+
+.logo {
+	float: left;
+	width: 50%;
+}
+
+.logo h1 {
+	color: white;
+	font-size: 42px;
+}
+
+.login {
+	width: 50%;
+	float: right;
+	overflow: hidden;
+	margin-top: 12px;
+	font-size: 16px;
+}
+
+.registraion_area {
+	width: 100%;
+	background: #11a104;
+	overflow: hidden;
+	padding-bottom: 50px;
+	color: white;
+}
+
+.reg_content {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.reg_content h2 {
+	font-size: 36px;
+	color: white;
+	margin: 24px 0;
+}
+
+.reg_left {
+	float: left;
+	width: 60%;
+	padding-right: 5%;
+}
+
+.reg_left img {
+	width: 100%;
+}
+
+.reg_right {
+	float: left;
+	overflow: hidden;
+	width: 35%;
+}
+
+.reg_right from {
+	font-size: 16px;
+	color: white;
+}
+
+.reg_right select {
+	width: 97%;
+	padding: 2px;
+}
+
+
+
+.footer_area {
+	background: #a70100;
+	text-align: center;
+	padding: 10px 0;
+}
+
+.footer_area p {
+	font-size: 12px;
+	color: #f0f0f0;
+}

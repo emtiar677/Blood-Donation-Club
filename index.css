@@ -1,0 +1,172 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0 auto;
+}
+
+#heder-part {
+    background: url(./images/banner-header.jpg) no-repeat;
+    background-size: cover;
+    height: 650px;
+    width: 1400px;
+}
+
+.dark-mode {
+    width: 100%;
+    height: 100%;
+    background-color: #0000009d;
+}
+
+.text {
+    padding: 70px 275px;
+}
+
+.header-text-one {
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+
+.header-text-two {
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.buttone-one {
+    text-decoration: none;
+    margin: 30px 345px;
+    padding: 15px 25px;
+    color: white;
+    background-color: #ff5959;
+    border-radius: 5px;
+    border: none;
+}
+
+#send-amount {
+    margin: 100px auto;
+}
+
+.main {
+    width: 65%;
+    margin: 0 auto;
+}
+
+.send-head {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    color: #121212;
+}
+
+.send-details {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: #707070;
+    width: 80%;
+}
+
+.main-one {
+    display: flex;
+    justify-content: space-around;
+}
+
+.amount {
+    padding: 30px 35px;
+    background-color: #fafafa;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.hover {
+    background-color: #ff000437;
+    border: 5px solid #307707;
+}
+
+.amoint-input {
+    text-align: center;
+    border: none;
+    border-bottom: 2px solid #707070;
+    width: 650px;
+    margin: 20px 100px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+
+#family {
+    margin: 100px auto;
+    width: 700px;
+}
+
+.family-main {
+    width: 90%;
+    margin: 100px auto;
+}
+
+.family-child {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px auto;
+}
+
+.family-heading {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.family-text {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.family-food {
+    width: 25%;
+    text-align: left;
+    background-color: #64a4ab67;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.B {
+    background-color: #9959ff42;
+}
+
+.C {
+    background-color: #dcb75081;
+}
+
+.family-img {
+    margin-top: 20px;
+}
+
+
+
+
+footer {
+    margin-top: 100px;
+    background-color: #0b0d17;
+    width: 1400px;
+    height: 160px;
+    padding: 20px;
+}
+
+h5 {
+    font-family: "Lobster", cursive;
+    font-size: 35px;
+    font-weight: 400;
+    color: #fcf2f2;
+    text-align: center;
+}
+
+.footer-text {
+    color: #d9dbe1;
+    font-size: 14px;
+    text-align: center;
+
+}
